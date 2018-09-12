@@ -1,4 +1,4 @@
-# Plans for the year Anna
+# Plans for the year  - Anna
 
 1. KDE Summer of Code https://community.kde.org/GSoC
 2. Recurse Center for Winter - https://www.recurse.com/apply
